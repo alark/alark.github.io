@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alark Joshi - USF"
+title: "Projects"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,4 +14,4 @@ His work has led to novel visualization techniques in fields as diverse as compu
 
 He received his Ph.D in Computer Science from the University of Maryland Baltimore County, his M.S. in Computer Science from the University of Minnesota and his B.S. degree from the University of Pune, India. He owes his interest in medical visualization to his stints at VitalImages Inc. and Siemens Corporate Research.
 
-He blogs about recent advances in data visualization at the Visualization Blog and is a contributing author at the graphics and visualization website Vizworld.com. 
+<!-- He blogs about recent advances in data visualization at the Visualization Blog and is a contributing author at the graphics and visualization website Vizworld.com.  -->
