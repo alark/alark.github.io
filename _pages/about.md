@@ -11,7 +11,7 @@ redirect_from:
 
 Alark Joshi is an Associate Professor in the [Department of Computer Science](https://www.cs.usfca.edu/) and the Co-Director of the [Visualization and Graphics Lab](https://vgl.cs.usfca.edu) at the [University of San Francisco](https://www.usfca.edu/).  
 
-### Research Interests: 
+### Research Interests 
 
 * Data Visualization 
 * Medical Visualization 
