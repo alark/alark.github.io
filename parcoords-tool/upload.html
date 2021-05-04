@@ -48,8 +48,11 @@ body, html {
 <h2>Interaction Notes: Click and drag an axis to filter, Double click to remove filter, Resize column headers in the table below using the dividers between them.</h2>
 <h2>Please upload a CSV file using the "Choose File" button below:</h2>
 <input type="file" id="uploader">
+<button onclick="downloadScreenshot()">Download screenshot</button>
+
 <div id="example" class="parcoords" style="height:240px;"></div>
 <div id="grid"></div>
+
 <div id="pager"></div>
 <script>
 var parcoords = ParCoords()("#example")
@@ -172,5 +175,18 @@ function handleFiles() {
   var file = this.files[0];
   reader.readAsText(file);
 };
+
+
+function downloadScreenshot() {
+
+        var callback = function (canvas) {
+            // Download the image
+            var download = document.createElement("a");
+            download.href = canvas.toDataURL("image/png");
+            download.download = "parallel-coordinate.png";
+            download.click();
+        };
+        parcoords.mergeParcoords(callback);
+    }
 </script>
 
