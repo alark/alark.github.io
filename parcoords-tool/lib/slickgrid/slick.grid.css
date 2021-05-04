@@ -23,7 +23,8 @@ classes should alter those!
   display: inline-block;
   overflow: hidden;
   text-overflow: ellipsis;
-  height: 16px;
+  height: 22px;
+  width: 100px;
   line-height: 16px;
   margin: 0;
   padding: 4px;
@@ -59,7 +60,7 @@ classes should alter those!
 
 .slick-resizable-handle {
   position: absolute;
-  font-size: 0.1px;
+  font-size: 0.2px;
   display: block;
   cursor: col-resize;
   width: 4px;
