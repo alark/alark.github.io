@@ -1,5 +1,11 @@
 - name: Example Alumni Name
-  photo: rock.jpg
+  
   duration: In the lab 2015-18
   info: Now at Univeristy of X
   email: exampleemail@gmail.com
+
+
+- name: Zini Zhu (Google) 
+  location: University of San Francisco
+  degree: M.S 
+  year : 2021 

@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Alark Joshi 
+email: apjoshi@usfca.edu 
+description: Academic webpage of Dr. Alark Joshi 
 baseurl: ""
 url: ""
 
@@ -30,10 +30,11 @@ nav_pages:
   - name: about
   - name: publications
   - name: talks
+  - name: teaching
+  - name: team 
   - name: research
   - name: software
-  - name: team
-  - name: teaching
+  
 
 include:
   - .htaccess

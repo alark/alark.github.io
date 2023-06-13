@@ -1,0 +1,83 @@
+I"è
+<h2 id="team">Team</h2>
+
+<p><strong>We are  looking for new team members</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+
+<h2 id="pi">PI</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/headshot.png" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-9 col-xs-12">
+      <h4>Dr. Alark Joshi</h4>
+      <p><i>Associate Professor, University of san Francisco</i><br /></p>
+
+      <p><a href="mailto:apjoshi@usfca.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a>   <a href="https://scholar.google.com/citations?user=iUeg1KgAAAAJ&amp;hl=en&amp;authuser=1" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>   <a href="cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a>   <a href="https://github.com/alark" target="_blank"><i class="fa fa-github-square fa-2x"></i></a></p>
+      <ul style="overflow: hidden">
+<li> (2007) Ph.D. Computer Science, University of Maryland Baltimore County (UMBC) </li>
+<li> (2001) M.S. Computer Science, University of Minnesota </li>
+</ul>
+    </div>
+  </div>
+</div>
+
+<h2 id="current-students-and-postdocs">Current Students and Postdocs</h2>
+
+<div class="jumbotron">
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Test</h4>
+      <p><i>Professor of Computer Science, USF<br /></i></p>
+
+      <p><a href="test" target="_blank"><i class="fa fa-home fa-2x"></i></a> 
+  <a href="mailto:test@usfca.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a></p>
+
+    </div>
+    <!-- </div> -->
+
+  </div>
+
+</div>
+
+<h2 id="alumni">Alumni</h2>
+
+<div class="jumbotron">
+
+  <div class="row">
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Example Alumni Name</h4>
+      <p><i>In the lab 2015-18 <br /> Role: Now at Univeristy of X</i></p>
+      <ul style="overflow: hidden">
+  </ul>
+    </div>
+
+    <div class="col-sm-2">
+      <p><img src="http://localhost:4000/images/" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-4 col-xs-12">
+      <h4>Zini Zhu (Google)</h4>
+      <p><i> <br /> Role: </i></p>
+      <ul style="overflow: hidden">
+  </ul>
+    </div>
+
+  </div>
+
+</div>
+
+<h2 id="administrative-support">Administrative Support</h2>
+
+<p><a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.</p>
+
+:ET

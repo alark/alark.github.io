@@ -1,21 +1,21 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+- name: Dr. Alark Joshi
+  photo: headshot.png
+  info: Associate Professor, University of san Francisco
+  email: apjoshi@usfca.edu
+  github: https://github.com/alark  
+  scholar: https://scholar.google.com/citations?user=iUeg1KgAAAAJ&hl=en&authuser=1
   cv: cv/cv.pdf
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
+  number_educ: 3
+  education1: "(2007) Ph.D. Computer Science, University of Maryland Baltimore County (UMBC)"
+  education2: "(2001) M.S. Computer Science, University of Minnesota"
+  education3: "(1999) B.E. Computer Engineering, Pune Institute of Computer Technology, University of Pune, India"
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
+  education1short: (2007) Ph.D. Computer Science, UMBC
+  education2short: (2001) M.S. Computer Science, UMN
+  education3short: (1999) B.E. Computer Engineering, PICT, India
   # education3short: 
   # education4short: 
   # education5short: 

@@ -17,9 +17,10 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 </style>
 
 <div class="jumbotron">
-### Preprints
-{% bibliography --query @unpublished %}
+### Books 
+{% bibliography --query @book %}
 </div>
+
 
 <div class="jumbotron">
 ### Refereed journal articles

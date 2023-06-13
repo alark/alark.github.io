@@ -1,9 +1,9 @@
-- name: Example student name
+- name: Test 
   photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+  info: Professor of Computer Science, USF
+  email: test@usfca.edu
+  website: test 
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="www">openings</a> for more info

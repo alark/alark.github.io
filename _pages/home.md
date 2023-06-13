@@ -7,18 +7,16 @@ permalink: /
 
 ### Welcome!
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+My research is in the field of Data Visualization with an emphasis on mobile data visualization and visualization literacy. In the field of Mobile Data Visualization, we have developed novel techniques to provide context to viewers as they explore data on small screens. For the visualization literacy field, we have explored the use of Bloom's taxonomy to introduce individuals to unfamiliar visualization techniques such as Treemaps and Parallel Coordinates Plots. 
+
+Through the ability of individuals to critically evaluate visualizations that they experience on social media and in their daily lives, they can get a better sense of the data they is being represented or misrepresented. Through the increase in visualization literacy, we plan to help individuals develop a critical approach to read charts and, potentially, reduce the spread of misinformation.  
 
 <div class="container">
 <div class="row">
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
+Timesteps of Hurricane Katrina annotated with Speedlines. <br/>
+Joshi A. et al., Case study on visualizing hurricanes using illustration-inspired techniques. <i>IEEE TVCG</i> (2008)
 </center>
 </div>
 </div>
@@ -26,8 +24,7 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+Alark Joshi is an Associate Professor in the Department of Computer Science at the University of San Francisco. His research focuses on developing and evaluating the ability of novel visualization techniques to communicate information for effective decision making and discovery. He received his postdoctoral training at Yale University, where he was a core member of the BioImage Suite team, whose mission is to develop and disseminate advanced image analysis and visualization software for widespread use.
+
+His work has led to novel visualization techniques in fields as diverse as computational fluid dynamics, atmospheric physics, medical imaging and cell biology. Through the illustration-inspired visualization techniques that he developed, atmospheric physicists are able to visualize the time-varying nature of hurricanes more effectively. Some of his current work deals with developing and evaluating the performance of neurosurgeons on novel visualization and interaction techniques.
 

@@ -1,6 +1,11 @@
-- date: 1 January, 1941
-  headline: "Example news here"
+- date: May 2023 
+  headline: "Our paper based on Treemaps Literacy was presented at the Eurographics Education 2023 conference"
 
-- date: 1 January, 1940
-  headline: "Example news here"
+- date: March 2023
+  headline: "Our poster on Acknowledging Inequities in Tech through a Community-Engaged Learning course was presented at SIGCSE 2023"
 
+- date: June 2022 
+  headline: "Our lab published 4 papers on Visualization Literacy and Pedagogy at IEEE CG&A (2), Eurographics Education, and theInformation Visualization Journal."
+
+- date: December 2021
+  headline: "Our book on Mobile Data Visualization was published by CRC Press with two chapters co-authored by Alark Joshi"

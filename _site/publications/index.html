@@ -6,8 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Publications - Richard Feynman</title>
-  <meta name="description" content="Academic webpage of Dr. Richard Feynman">
+  <title>Publications - Alark Joshi</title>
+  <meta name="description" content="Academic webpage of Dr. Alark Joshi">
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="http://localhost:4000/publications/">
   <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/favicon.ico">
@@ -34,7 +34,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="http://localhost:4000/">
      <img src="http://localhost:4000/favicon.ico" width="30" height="30" style="margin-right:5px" class="d-inline-block align-top" alt="">
-      Richard Feynman
+      Alark Joshi
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -60,11 +60,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
            </li> 
           
            <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/research">Research</a>
-           </li> 
-          
-           <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/software">Software</a>
+            <a class="nav-link" href="http://localhost:4000/teaching">Teaching</a>
            </li> 
           
            <li class="nav-item">
@@ -72,7 +68,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
            </li> 
           
            <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/teaching">Teaching</a>
+            <a class="nav-link" href="http://localhost:4000/research">Research</a>
+           </li> 
+          
+           <li class="nav-item">
+            <a class="nav-link" href="http://localhost:4000/software">Software</a>
            </li> 
           
         </ul>
@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 
 <div class="jumbotron">
-  <h3 id="preprints">Preprints</h3>
+  <h3 id="books">Books</h3>
   <ol class="bibliography" reversed="reversed"><li><style>
 .btn{
     margin-bottom:5px;
@@ -116,60 +116,121 @@ pre{
 </style>
 
 
-<div class="text-justify"><span id="feynman06">Feynman, R. P., &amp; Cline, J. M. <i>Feynman lectures on the strong interations</i>. arXiv:2006.08594.</span></div>
+<div class="text-justify"><span id="bioimagesuite">Papademetris, X., &amp; Joshi, A. (2009). <i>Introduction to Programming for Image Analysis with VTK</i> (2nd ed.). Yale IPAG.</span></div>
 
 <!-- You can use the below to make your name bold -->
-<!-- <span id="feynman06">Feynman, R. P., &amp; Cline, J. M. <i>Feynman lectures on the strong interations</i>. arXiv:2006.08594.</span></div> -->
+<!-- <span id="bioimagesuite">Papademetris, X., &amp; Joshi, A. (2009). <i>Introduction to Programming for Image Analysis with VTK</i> (2nd ed.). Yale IPAG.</span></div> -->
 
 
 
 
 
-<a href="http://localhost:4000/papers/feynman06.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
 
-<a href="https://arxiv.org/abs/2006.08594" target="_blank"><button class="btn btn-primary btm-sm">ARXIV</button></a>
 
 
 
 
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexfeynman06()">BIB</button>
-
-
-
-<button class="btn btn-warning btm-sm" onclick="toggleAbstractfeynman06()">ABSTRACT</button>
-
-
-
-<div id="afeynman06" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@unpublished{feynman06,
-  author = {Feynman, R. P. and Cline, J. M.},
-  title = {Feynman lectures on the strong interations},
-  note = {arXiv:2006.08594},
-  doi = {2006.08594},
-  file = {feynman06.pdf}
+<div id="abioimagesuite" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@book{bioimagesuite,
+  title = {Introduction to Programming for Image Analysis with VTK},
+  author = {Papademetris, Xenophon and Joshi, Alark},
+  year = {2009},
+  edition = {2nd},
+  publisher = {Yale IPAG}
 }
 </pre>
 </div>
 
 
-<div id="bfeynman06" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>These twenty-two lectures, with exercises, comprise the extent of what was meant to be a full-year graduate-level course on the strong interactions and QCD, given at Caltech in 1987-88. The course was cut short by the illness that led to Feynman’s death. Several of the lectures were finalized in collaboration with Feynman for an anticipated monograph based on the course. The others, while retaining Feynman’s idiosyncrasies, are revised similarly to those he was able to check. His distinctive approach and manner of presentation are manifest throughout. Near the end he suggests a novel, nonperturbative formulation of quantum field theory in D dimensions. Supplementary material is provided in appendices and ancillary files, including verbatim transcriptions of three lectures and the corresponding audiotaped recordings.</pre>
+<div id="bbioimagesuite" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
 </div>
 
 <script>
-function toggleBibtexfeynman06(parameter) {
-    var x= document.getElementById('afeynman06');
+function toggleBibtexbioimagesuite(parameter) {
+    var x= document.getElementById('abioimagesuite');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
     }
 }
-function toggleAbstractfeynman06(parameter) {
-    var x= document.getElementById('bfeynman06');
+function toggleAbstractbioimagesuite(parameter) {
+    var x= document.getElementById('bbioimagesuite');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify"><span id="joshi2007aru">Joshi, A. (2008). <i>Art-inspired techniques for visualizing time-varying data</i>. VDM Verlag.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="joshi2007aru">Joshi, A. (2008). <i>Art-inspired techniques for visualizing time-varying data</i>. VDM Verlag.</span></div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="ajoshi2007aru" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@book{joshi2007aru,
+  title = {Art-inspired techniques for visualizing time-varying data},
+  author = {Joshi, Alark},
+  year = {2008},
+  publisher = {VDM Verlag}
+}
+</pre>
+</div>
+
+
+<div id="bjoshi2007aru" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexjoshi2007aru(parameter) {
+    var x= document.getElementById('ajoshi2007aru');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractjoshi2007aru(parameter) {
+    var x= document.getElementById('bjoshi2007aru');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -278,83 +339,6 @@ pre{
 </style>
 
 
-<div class="text-justify"><span id="barajas2022lessons">Barajas, D. J., Apedoe, X. S., Brizan, D. G., Joshi, A. P., &amp; Engle, S. J. (2022). Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback. <i>IEEE Computer Graphics and Applications</i>, <i>43</i>(1), 10–21.</span></div>
-
-<!-- You can use the below to make your name bold -->
-<!-- <span id="barajas2022lessons">Barajas, D. J., Apedoe, X. S., Brizan, D. G., Joshi, A. P., &amp; Engle, S. J. (2022). Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback. <i>IEEE Computer Graphics and Applications</i>, <i>43</i>(1), 10–21.</span></div> -->
-
-
-
-
-
-
-
-
-
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexbarajas2022lessons()">BIB</button>
-
-
-
-
-
-<div id="abarajas2022lessons" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@article{barajas2022lessons,
-  title = {Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback},
-  author = {Barajas, Daniel J and Apedoe, Xornam S and Brizan, David G and Joshi, Alark P and Engle, Sophie J},
-  journal = {IEEE Computer Graphics and Applications},
-  volume = {43},
-  number = {1},
-  pages = {10--21},
-  year = {2022},
-  publisher = {IEEE}
-}
-</pre>
-</div>
-
-
-<div id="bbarajas2022lessons" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre></pre>
-</div>
-
-<script>
-function toggleBibtexbarajas2022lessons(parameter) {
-    var x= document.getElementById('abarajas2022lessons');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-function toggleAbstractbarajas2022lessons(parameter) {
-    var x= document.getElementById('bbarajas2022lessons');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-</script>
-</li>
-<li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
-}
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
-}
-</style>
-
-
 <div class="text-justify"><span id="firat2022interactive">Firat, E. E., Joshi, A., &amp; Laramee, R. S. (2022). Interactive visualization literacy: The state-of-the-art. <i>Information Visualization</i>, <i>21</i>(3), 285–310.</span></div>
 
 <!-- You can use the below to make your name bold -->
@@ -404,6 +388,83 @@ function toggleBibtexfirat2022interactive(parameter) {
 }
 function toggleAbstractfirat2022interactive(parameter) {
     var x= document.getElementById('bfirat2022interactive');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify"><span id="barajas2022lessons">Barajas, D. J., Apedoe, X. S., Brizan, D. G., Joshi, A. P., &amp; Engle, S. J. (2022). Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback. <i>IEEE Computer Graphics and Applications</i>, <i>43</i>(1), 10–21.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="barajas2022lessons">Barajas, D. J., Apedoe, X. S., Brizan, D. G., Joshi, A. P., &amp; Engle, S. J. (2022). Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback. <i>IEEE Computer Graphics and Applications</i>, <i>43</i>(1), 10–21.</span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexbarajas2022lessons()">BIB</button>
+
+
+
+
+
+<div id="abarajas2022lessons" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{barajas2022lessons,
+  title = {Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback},
+  author = {Barajas, Daniel J and Apedoe, Xornam S and Brizan, David G and Joshi, Alark P and Engle, Sophie J},
+  journal = {IEEE Computer Graphics and Applications},
+  volume = {43},
+  number = {1},
+  pages = {10--21},
+  year = {2022},
+  publisher = {IEEE}
+}
+</pre>
+</div>
+
+
+<div id="bbarajas2022lessons" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexbarajas2022lessons(parameter) {
+    var x= document.getElementById('abarajas2022lessons');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractbarajas2022lessons(parameter) {
+    var x= document.getElementById('bbarajas2022lessons');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -1181,6 +1242,83 @@ pre{
 </style>
 
 
+<div class="text-justify"><span id="joshi2008case">Joshi, A., Caban, J., Rheingans, P., &amp; Sparling, L. (2008). Case study on visualizing hurricanes using illustration-inspired techniques. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>15</i>(5), 709–718.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="joshi2008case">Joshi, A., Caban, J., Rheingans, P., &amp; Sparling, L. (2008). Case study on visualizing hurricanes using illustration-inspired techniques. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>15</i>(5), 709–718.</span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexjoshi2008case()">BIB</button>
+
+
+
+
+
+<div id="ajoshi2008case" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{joshi2008case,
+  title = {Case study on visualizing hurricanes using illustration-inspired techniques},
+  author = {Joshi, Alark and Caban, Jesus and Rheingans, Penny and Sparling, Lynn},
+  journal = {IEEE Transactions on Visualization and Computer Graphics},
+  volume = {15},
+  number = {5},
+  pages = {709--718},
+  year = {2008},
+  publisher = {IEEE}
+}
+</pre>
+</div>
+
+
+<div id="bjoshi2008case" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexjoshi2008case(parameter) {
+    var x= document.getElementById('ajoshi2008case');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractjoshi2008case(parameter) {
+    var x= document.getElementById('bjoshi2008case');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
 <div class="text-justify"><span id="joshi2008effective">Joshi, A., Qian, X., Dione, D., Bulsara, K., Breuer, C., Sinusas, A., &amp; Papademetris, X. (2008). Effective visualization of complex vascular structures using a non-parametric vessel detection method. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>14</i>(6), 1603–1610.</span></div>
 
 <!-- You can use the below to make your name bold -->
@@ -1335,10 +1473,10 @@ pre{
 </style>
 
 
-<div class="text-justify"><span id="joshi2008case">Joshi, A., Caban, J., Rheingans, P., &amp; Sparling, L. (2008). Case study on visualizing hurricanes using illustration-inspired techniques. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>15</i>(5), 709–718.</span></div>
+<div class="text-justify"><span id="caban2007texture">Caban, J., Joshi, A., &amp; Rheingans, P. (2007). Texture-based feature tracking for effective time-varying data visualization. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>13</i>(6), 1472–1479.</span></div>
 
 <!-- You can use the below to make your name bold -->
-<!-- <span id="joshi2008case">Joshi, A., Caban, J., Rheingans, P., &amp; Sparling, L. (2008). Case study on visualizing hurricanes using illustration-inspired techniques. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>15</i>(5), 709–718.</span></div> -->
+<!-- <span id="caban2007texture">Caban, J., Joshi, A., &amp; Rheingans, P. (2007). Texture-based feature tracking for effective time-varying data visualization. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>13</i>(6), 1472–1479.</span></div> -->
 
 
 
@@ -1348,42 +1486,42 @@ pre{
 
 
 
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexjoshi2008case()">BIB</button>
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexcaban2007texture()">BIB</button>
 
 
 
 
 
-<div id="ajoshi2008case" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@article{joshi2008case,
-  title = {Case study on visualizing hurricanes using illustration-inspired techniques},
-  author = {Joshi, Alark and Caban, Jesus and Rheingans, Penny and Sparling, Lynn},
+<div id="acaban2007texture" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{caban2007texture,
+  title = {Texture-based feature tracking for effective time-varying data visualization},
+  author = {Caban, Jesus and Joshi, Alark and Rheingans, Penny},
   journal = {IEEE Transactions on Visualization and Computer Graphics},
-  volume = {15},
-  number = {5},
-  pages = {709--718},
-  year = {2008},
+  volume = {13},
+  number = {6},
+  pages = {1472--1479},
+  year = {2007},
   publisher = {IEEE}
 }
 </pre>
 </div>
 
 
-<div id="bjoshi2008case" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<div id="bcaban2007texture" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
 <pre></pre>
 </div>
 
 <script>
-function toggleBibtexjoshi2008case(parameter) {
-    var x= document.getElementById('ajoshi2008case');
+function toggleBibtexcaban2007texture(parameter) {
+    var x= document.getElementById('acaban2007texture');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
     }
 }
-function toggleAbstractjoshi2008case(parameter) {
-    var x= document.getElementById('bjoshi2008case');
+function toggleAbstractcaban2007texture(parameter) {
+    var x= document.getElementById('bcaban2007texture');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -1460,83 +1598,6 @@ function toggleBibtexcaban2007rapid(parameter) {
 }
 function toggleAbstractcaban2007rapid(parameter) {
     var x= document.getElementById('bcaban2007rapid');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-</script>
-</li>
-<li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
-}
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
-}
-</style>
-
-
-<div class="text-justify"><span id="caban2007texture">Caban, J., Joshi, A., &amp; Rheingans, P. (2007). Texture-based feature tracking for effective time-varying data visualization. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>13</i>(6), 1472–1479.</span></div>
-
-<!-- You can use the below to make your name bold -->
-<!-- <span id="caban2007texture">Caban, J., Joshi, A., &amp; Rheingans, P. (2007). Texture-based feature tracking for effective time-varying data visualization. <i>IEEE Transactions on Visualization and Computer Graphics</i>, <i>13</i>(6), 1472–1479.</span></div> -->
-
-
-
-
-
-
-
-
-
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexcaban2007texture()">BIB</button>
-
-
-
-
-
-<div id="acaban2007texture" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@article{caban2007texture,
-  title = {Texture-based feature tracking for effective time-varying data visualization},
-  author = {Caban, Jesus and Joshi, Alark and Rheingans, Penny},
-  journal = {IEEE Transactions on Visualization and Computer Graphics},
-  volume = {13},
-  number = {6},
-  pages = {1472--1479},
-  year = {2007},
-  publisher = {IEEE}
-}
-</pre>
-</div>
-
-
-<div id="bcaban2007texture" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre></pre>
-</div>
-
-<script>
-function toggleBibtexcaban2007texture(parameter) {
-    var x= document.getElementById('acaban2007texture');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-function toggleAbstractcaban2007texture(parameter) {
-    var x= document.getElementById('bcaban2007texture');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -1711,92 +1772,6 @@ pre{
 </style>
 
 
-<div class="text-justify"><span id="feynman1939forces">Feynman, R. P. (1939). Forces in molecules. <i>Physical Review</i>, <i>56</i>(4), 340.</span></div>
-
-<!-- You can use the below to make your name bold -->
-<!-- <span id="feynman1939forces">Feynman, R. P. (1939). Forces in molecules. <i>Physical Review</i>, <i>56</i>(4), 340.</span></div> -->
-
-
-
-
-
-<a href="http://localhost:4000/papers/feynman39.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
-
-
-
-
-<a href="http://doi.org/10.1103/PhysRev.56.340" target="_blank"><button class="btn btn-primary btm-sm">DOI</button></a>
-
-
-
-
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexfeynman1939forces()">BIB</button>
-
-
-
-<button class="btn btn-warning btm-sm" onclick="toggleAbstractfeynman1939forces()">ABSTRACT</button>
-
-
-
-<div id="afeynman1939forces" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@article{feynman1939forces,
-  title = {Forces in molecules},
-  author = {Feynman, R. P.},
-  journal = {Physical Review},
-  volume = {56},
-  number = {4},
-  pages = {340},
-  year = {1939},
-  doi = {10.1103/PhysRev.56.340},
-  file = {feynman39.pdf}
-}
-</pre>
-</div>
-
-
-<div id="bfeynman1939forces" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>Formulas have been developed to calculate the forces in a molecular system directly, rather than indirectly through the agency of energy. This permits an independent calculation of the slope of the curves of energy vs. position of the nuclei, and may thus increase the accuracy, or decrease the labor involved in the calculation of these curves. The force on a nucleus in an atomic system is shown to be just the classical electrostatic force that would be exerted on this nucleus by other nuclei and by the electrons’ charge distribution. Qualitative implications of this are discussed.</pre>
-</div>
-
-<script>
-function toggleBibtexfeynman1939forces(parameter) {
-    var x= document.getElementById('afeynman1939forces');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-function toggleAbstractfeynman1939forces(parameter) {
-    var x= document.getElementById('bfeynman1939forces');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-</script>
-</li>
-<li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
-}
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
-}
-</style>
-
-
 <div class="text-justify"><span id="joshivisualization">Joshi, A., Börner, K., Laramee, R. S., Harrison, L., Firat, E. E., &amp; Kwon, B. C. <i>Visualization Literacy for General Audiences-Can We Make A Difference?</i></span></div>
 
 <!-- You can use the below to make your name bold -->
@@ -1911,6 +1886,77 @@ function toggleBibtexengleengendering(parameter) {
 }
 function toggleAbstractengleengendering(parameter) {
     var x= document.getElementById('bengleengendering');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify"><span id="masonpaper">Mason, S., Holley, D., Wells, A., Jain, A., &amp; Wuerzer, T. <i>Paper Title: Social Network Analysis: A Means to Discovering the Tipping Point in Gaining Cooperation?</i></span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="masonpaper">Mason, S., Holley, D., Wells, A., Jain, A., &amp; Wuerzer, T. <i>Paper Title: Social Network Analysis: A Means to Discovering the Tipping Point in Gaining Cooperation?</i></span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexmasonpaper()">BIB</button>
+
+
+
+
+
+<div id="amasonpaper" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@article{masonpaper,
+  title = {Paper Title: Social Network Analysis: A Means to Discovering the Tipping Point in Gaining Cooperation?},
+  author = {Mason, Susan and Holley, Don and Wells, Aaron and Jain, Amit and Wuerzer, Thomas}
+}
+</pre>
+</div>
+
+
+<div id="bmasonpaper" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexmasonpaper(parameter) {
+    var x= document.getElementById('amasonpaper');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractmasonpaper(parameter) {
+    var x= document.getElementById('bmasonpaper');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -2060,77 +2106,6 @@ function toggleAbstracthaleyvisweek(parameter) {
     }
 }
 </script>
-</li>
-<li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
-}
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
-}
-</style>
-
-
-<div class="text-justify"><span id="masonpaper">Mason, S., Holley, D., Wells, A., Jain, A., &amp; Wuerzer, T. <i>Paper Title: Social Network Analysis: A Means to Discovering the Tipping Point in Gaining Cooperation?</i></span></div>
-
-<!-- You can use the below to make your name bold -->
-<!-- <span id="masonpaper">Mason, S., Holley, D., Wells, A., Jain, A., &amp; Wuerzer, T. <i>Paper Title: Social Network Analysis: A Means to Discovering the Tipping Point in Gaining Cooperation?</i></span></div> -->
-
-
-
-
-
-
-
-
-
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexmasonpaper()">BIB</button>
-
-
-
-
-
-<div id="amasonpaper" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@article{masonpaper,
-  title = {Paper Title: Social Network Analysis: A Means to Discovering the Tipping Point in Gaining Cooperation?},
-  author = {Mason, Susan and Holley, Don and Wells, Aaron and Jain, Amit and Wuerzer, Thomas}
-}
-</pre>
-</div>
-
-
-<div id="bmasonpaper" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre></pre>
-</div>
-
-<script>
-function toggleBibtexmasonpaper(parameter) {
-    var x= document.getElementById('amasonpaper');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-function toggleAbstractmasonpaper(parameter) {
-    var x= document.getElementById('bmasonpaper');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-</script>
 </li></ol>
 </div>
 
@@ -2156,57 +2131,53 @@ pre{
 </style>
 
 
-<div class="text-justify"><span id="example_proceeding">Doe, J. (2040). Example title. <i>Example Book</i>.</span></div>
+<div class="text-justify"><span id="firat2023constructivism">Firat, E. E., Lang, C., Srinivas, B., Peng, I., Laramee, R. S., &amp; Joshi, A. (2023). A Constructivism-based Approach to Treemap Literacy in the Classroom. <i>COMPUTER GRAPHICS Forum</i>, <i>42</i>(2).</span></div>
 
 <!-- You can use the below to make your name bold -->
-<!-- <span id="example_proceeding">Doe, J. (2040). Example title. <i>Example Book</i>.</span></div> -->
+<!-- <span id="firat2023constructivism">Firat, E. E., Lang, C., Srinivas, B., Peng, I., Laramee, R. S., &amp; Joshi, A. (2023). A Constructivism-based Approach to Treemap Literacy in the Classroom. <i>COMPUTER GRAPHICS Forum</i>, <i>42</i>(2).</span></div> -->
 
 
 
 
 
-<a href="http://localhost:4000/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexfirat2023constructivism()">BIB</button>
 
 
 
 
 
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexexample_proceeding()">BIB</button>
-
-
-
-<button class="btn btn-warning btm-sm" onclick="toggleAbstractexample_proceeding()">ABSTRACT</button>
-
-
-
-<div id="aexample_proceeding" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@inproceedings{example_proceeding,
-  author = {Doe, J.},
-  year = {2040},
-  title = {Example title},
-  booktitle = {Example Book},
-  address = {Pasadena, CA},
-  file = {example_proceeding.pdf}
+<div id="afirat2023constructivism" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{firat2023constructivism,
+  title = {A Constructivism-based Approach to Treemap Literacy in the Classroom},
+  author = {Firat, Elif E and Lang, Colm and Srinivas, Bhumika and Peng, Ilena and Laramee, Robert S and Joshi, Alark},
+  booktitle = {COMPUTER GRAPHICS forum},
+  volume = {42},
+  number = {2},
+  year = {2023}
 }
 </pre>
 </div>
 
 
-<div id="bexample_proceeding" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>Example abstract.</pre>
+<div id="bfirat2023constructivism" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
 </div>
 
 <script>
-function toggleBibtexexample_proceeding(parameter) {
-    var x= document.getElementById('aexample_proceeding');
+function toggleBibtexfirat2023constructivism(parameter) {
+    var x= document.getElementById('afirat2023constructivism');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
     }
 }
-function toggleAbstractexample_proceeding(parameter) {
-    var x= document.getElementById('bexample_proceeding');
+function toggleAbstractfirat2023constructivism(parameter) {
+    var x= document.getElementById('bfirat2023constructivism');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -2384,6 +2355,156 @@ pre{
 </style>
 
 
+<div class="text-justify"><span id="vermeulen2021reflections">Vermeulen, J., Collins, C., Dachselt, R., Irani, P., &amp; Joshi, A. (2021). Reflections on Ubiquitous Visualization. <i>Mobile Data Visualization</i>, 263–316.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="vermeulen2021reflections">Vermeulen, J., Collins, C., Dachselt, R., Irani, P., &amp; Joshi, A. (2021). Reflections on Ubiquitous Visualization. <i>Mobile Data Visualization</i>, 263–316.</span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexvermeulen2021reflections()">BIB</button>
+
+
+
+
+
+<div id="avermeulen2021reflections" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{vermeulen2021reflections,
+  title = {Reflections on Ubiquitous Visualization},
+  author = {Vermeulen, Jo and Collins, Christopher and Dachselt, Raimund and Irani, Pourang and Joshi, Alark},
+  booktitle = {Mobile Data Visualization},
+  pages = {263--316},
+  year = {2021},
+  publisher = {Chapman and Hall/CRC}
+}
+</pre>
+</div>
+
+
+<div id="bvermeulen2021reflections" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexvermeulen2021reflections(parameter) {
+    var x= document.getElementById('avermeulen2021reflections');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractvermeulen2021reflections(parameter) {
+    var x= document.getElementById('bvermeulen2021reflections');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify"><span id="horak2021responsive">Horak, T., Aigner, W., Brehmer, M., Joshi, A., &amp; Tominski, C. (2021). Responsive visualization design for mobile devices. <i>Mobile Data Visualization</i>, 33–66.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="horak2021responsive">Horak, T., Aigner, W., Brehmer, M., Joshi, A., &amp; Tominski, C. (2021). Responsive visualization design for mobile devices. <i>Mobile Data Visualization</i>, 33–66.</span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexhorak2021responsive()">BIB</button>
+
+
+
+
+
+<div id="ahorak2021responsive" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{horak2021responsive,
+  title = {Responsive visualization design for mobile devices},
+  author = {Horak, Tom and Aigner, Wolfgang and Brehmer, Matthew and Joshi, Alark and Tominski, Christian},
+  booktitle = {Mobile Data Visualization},
+  pages = {33--66},
+  year = {2021},
+  publisher = {Chapman and Hall/CRC}
+}
+</pre>
+</div>
+
+
+<div id="bhorak2021responsive" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexhorak2021responsive(parameter) {
+    var x= document.getElementById('ahorak2021responsive');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstracthorak2021responsive(parameter) {
+    var x= document.getElementById('bhorak2021responsive');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
 <div class="text-justify"><span id="rollins2021understanding">Rollins, S. N., Joshi, A., Apedoe, X., Engle, S., Malensek, M., &amp; Bruno, G. (2021). Understanding Professional Identity Development Among Computer Science Students. <i>ASEE Annual Conference Exposition Proceedings</i>.</span></div>
 
 <!-- You can use the below to make your name bold -->
@@ -2532,6 +2653,81 @@ pre{
 </style>
 
 
+<div class="text-justify"><span id="joshi2019leveraging">Joshi, A., Luu, P., Tucker, D. M., &amp; Shofner, S. D. (2019). Leveraging Models of Human Reasoning to Identify EEG Electrodes in Images With Neural Networks. <i>Optoelectronics in Machine Vision-Based Theories and Applications</i>, 106–133.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="joshi2019leveraging">Joshi, A., Luu, P., Tucker, D. M., &amp; Shofner, S. D. (2019). Leveraging Models of Human Reasoning to Identify EEG Electrodes in Images With Neural Networks. <i>Optoelectronics in Machine Vision-Based Theories and Applications</i>, 106–133.</span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexjoshi2019leveraging()">BIB</button>
+
+
+
+
+
+<div id="ajoshi2019leveraging" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{joshi2019leveraging,
+  title = {Leveraging Models of Human Reasoning to Identify EEG Electrodes in Images With Neural Networks},
+  author = {Joshi, Alark and Luu, Phan and Tucker, Don M and Shofner, Steven Duane},
+  booktitle = {Optoelectronics in Machine Vision-Based Theories and Applications},
+  pages = {106--133},
+  year = {2019},
+  publisher = {IGI Global}
+}
+</pre>
+</div>
+
+
+<div id="bjoshi2019leveraging" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexjoshi2019leveraging(parameter) {
+    var x= document.getElementById('ajoshi2019leveraging');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractjoshi2019leveraging(parameter) {
+    var x= document.getElementById('bjoshi2019leveraging');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
 <div class="text-justify"><span id="joshi2019sustainable">Joshi, A., Jain, A., Covelli, E., Andersen, T., &amp; Yeh, J.-haw. (2019). A Sustainable Model for High-School Teacher Preparation in Computer Science. <i>Frontiers in Education 2019</i>.</span></div>
 
 <!-- You can use the below to make your name bold -->
@@ -2577,82 +2773,6 @@ function toggleBibtexjoshi2019sustainable(parameter) {
 }
 function toggleAbstractjoshi2019sustainable(parameter) {
     var x= document.getElementById('bjoshi2019sustainable');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-</script>
-</li>
-<li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
-}
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
-}
-</style>
-
-
-<div class="text-justify"><span id="thirani2018influencing">Thirani, M. V., Reddy, B. M. B., Yan, S. M. R., Banerjee, N. M., &amp; Joshi, A. (2018). Influencing Participant Behavior Through a Notification-Based Recommendation System. <i>Persuasive Technology: 13th International Conference, PERSUASIVE 2018, Waterloo, ON, Canada, April 18-19, 2018, Proceedings</i>, <i>10809</i>, 113.</span></div>
-
-<!-- You can use the below to make your name bold -->
-<!-- <span id="thirani2018influencing">Thirani, M. V., Reddy, B. M. B., Yan, S. M. R., Banerjee, N. M., &amp; Joshi, A. (2018). Influencing Participant Behavior Through a Notification-Based Recommendation System. <i>Persuasive Technology: 13th International Conference, PERSUASIVE 2018, Waterloo, ON, Canada, April 18-19, 2018, Proceedings</i>, <i>10809</i>, 113.</span></div> -->
-
-
-
-
-
-
-
-
-
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexthirani2018influencing()">BIB</button>
-
-
-
-
-
-<div id="athirani2018influencing" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@inproceedings{thirani2018influencing,
-  title = {Influencing Participant Behavior Through a Notification-Based Recommendation System},
-  author = {Thirani, Mayank Venkata and Reddy, Brian Mark Bushree and Yan, Sami Marcus Rollins and Banerjee, Nilanjan Matthew and Joshi, Alark},
-  booktitle = {Persuasive Technology: 13th International Conference, PERSUASIVE 2018, Waterloo, ON, Canada, April 18-19, 2018, Proceedings},
-  volume = {10809},
-  pages = {113},
-  year = {2018},
-  organization = {Springer}
-}
-</pre>
-</div>
-
-
-<div id="bthirani2018influencing" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre></pre>
-</div>
-
-<script>
-function toggleBibtexthirani2018influencing(parameter) {
-    var x= document.getElementById('athirani2018influencing');
-    if (x.style.display === 'none') {
-        x.style.display = 'block';
-    } else {
-        x.style.display = 'none';
-    }
-}
-function toggleAbstractthirani2018influencing(parameter) {
-    var x= document.getElementById('bthirani2018influencing');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -2800,6 +2920,82 @@ function toggleBibtexjoshi2018reflecting(parameter) {
 }
 function toggleAbstractjoshi2018reflecting(parameter) {
     var x= document.getElementById('bjoshi2018reflecting');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
+</li>
+<li><style>
+.btn{
+    margin-bottom:5px;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:15px;
+    padding-right:15px;
+    height:20px:
+}
+pre{
+    white-space: pre-wrap;  
+    white-space: -moz-pre-wrap; 
+    white-space: -pre-wrap; 
+    white-space: -o-pre-wrap; 
+    word-wrap: break-word; 
+    width:100%; overflow-x:auto;
+}
+</style>
+
+
+<div class="text-justify"><span id="thirani2018influencing">Thirani, M. V., Reddy, B. M. B., Yan, S. M. R., Banerjee, N. M., &amp; Joshi, A. (2018). Influencing Participant Behavior Through a Notification-Based Recommendation System. <i>Persuasive Technology: 13th International Conference, PERSUASIVE 2018, Waterloo, ON, Canada, April 18-19, 2018, Proceedings</i>, <i>10809</i>, 113.</span></div>
+
+<!-- You can use the below to make your name bold -->
+<!-- <span id="thirani2018influencing">Thirani, M. V., Reddy, B. M. B., Yan, S. M. R., Banerjee, N. M., &amp; Joshi, A. (2018). Influencing Participant Behavior Through a Notification-Based Recommendation System. <i>Persuasive Technology: 13th International Conference, PERSUASIVE 2018, Waterloo, ON, Canada, April 18-19, 2018, Proceedings</i>, <i>10809</i>, 113.</span></div> -->
+
+
+
+
+
+
+
+
+
+<button class="btn btn-danger btm-sm" onclick="toggleBibtexthirani2018influencing()">BIB</button>
+
+
+
+
+
+<div id="athirani2018influencing" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{thirani2018influencing,
+  title = {Influencing Participant Behavior Through a Notification-Based Recommendation System},
+  author = {Thirani, Mayank Venkata and Reddy, Brian Mark Bushree and Yan, Sami Marcus Rollins and Banerjee, Nilanjan Matthew and Joshi, Alark},
+  booktitle = {Persuasive Technology: 13th International Conference, PERSUASIVE 2018, Waterloo, ON, Canada, April 18-19, 2018, Proceedings},
+  volume = {10809},
+  pages = {113},
+  year = {2018},
+  organization = {Springer}
+}
+</pre>
+</div>
+
+
+<div id="bthirani2018influencing" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre></pre>
+</div>
+
+<script>
+function toggleBibtexthirani2018influencing(parameter) {
+    var x= document.getElementById('athirani2018influencing');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+function toggleAbstractthirani2018influencing(parameter) {
+    var x= document.getElementById('bthirani2018influencing');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -3292,7 +3488,7 @@ function toggleAbstractjoshi2005illustration(parameter) {
 		</div>
 	  </div>
 
-      <center><p>&copy 2023 Richard Feynman </p></center>
+      <center><p>&copy 2023 Alark Joshi </p></center>
 	</div>
   </div>
 </div>
