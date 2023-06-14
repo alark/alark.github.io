@@ -1,7 +1,7 @@
 # Site settings
 title: Alark Joshi 
 email: apjoshi@usfca.edu 
-description: Academic webpage of Dr. Alark Joshi 
+description: Academic webpage of Alark Joshi 
 baseurl: ""
 url: ""
 
@@ -13,7 +13,8 @@ url: ""
 # Footer info
 affiliation: >
     Alark Joshi<br/>
-    Associate Professor of Computer Science<br/>
+    Associate Professor<br/>
+    Department of Computer Science<br/>
     University of San Francisco<br/>
 
 location: >
@@ -31,9 +32,9 @@ nav_pages:
   - name: publications
   - name: talks
   - name: teaching
-  - name: team 
-  - name: research
-  - name: software
+  # - name: team 
+  # - name: research
+  # - name: software
   
 
 include:

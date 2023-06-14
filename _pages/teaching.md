@@ -43,7 +43,7 @@ Department of Computer Science, USF (Fall 2018)
 
 * BioImage Suite Users Training, Department of Diagnostic Radiology, Magnetic Resonance Research Center, Yale University (Spring 2008)
 
-* Introduction to Computer Graphics, Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, (Spring 2005)
+* CMSC 435 - Introduction to Computer Graphics, Department of Computer Science and Electrical Engineering, University of Maryland Baltimore County, (Spring 2005)
 
 
 

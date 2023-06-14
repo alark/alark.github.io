@@ -25,7 +25,7 @@ pre{
 <div class="text-justify">{{reference}}</div>
 
 <!-- You can use the below to make your name bold -->
-<!-- {{reference | replace_first: 'Bryngelson, S. H.', '<b>Bryngelson, S. H.</b>' | replace_first: 'Bryngelson, S.', '<b>Bryngelson, S.</b>' }}</div> -->
+<!-- {{reference | replace_first: 'Joshi, A.', '<b>Joshi, A.</b>' | replace_first: 'Joshi, A.', '<b>Joshi, A.</b>' }} -->
 
 {% assign bibtest = false %}
 {% if entry.file %}
@@ -62,12 +62,12 @@ pre{
 <pre>{{ entry.bibtex | remove: "entry.abstract" }}</pre>
 </div>
 {% else %}
-<div id="a{{entry.key}}" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<div id="a{{entry.key}}" style="display: none; background-color:lightgray; border-radius:5px; padding:10px; margin-bottom:20px;">
 <pre>{{ entry.bibtex }}</pre>
 </div>
 {% endif %}
 
-<div id="b{{entry.key}}" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<div id="b{{entry.key}}" style="display: none; background-color:white; border-radius:5px; padding:10px; margin-bottom:20px;">
 <pre>{{entry.abstract}}</pre>
 </div>
 

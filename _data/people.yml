@@ -3,7 +3,6 @@
   degree: B.S
   year: 2023
 
-
 - name: Chandana Srinivas
   location: University of San Francisco
   degree: B.S  
@@ -13,3 +12,115 @@
   location: University of San Francisco
   degree: B.S 
   year: 2024
+
+- name: Bhumika Srinivas
+  location: University of San Francisco (MSDS)
+  degree: B.S 
+  year: 2023
+
+- name: Ariana Jorgensen
+  location: University of San Francisco
+  degree: M.S 
+  year: 2023
+
+- name: Rubin Johny
+  location: University of San Francisco
+  degree: M.S 
+  year: 2023
+
+
+- name:  Tony Jimenez
+  location: University of San Francisco
+  degree: B.S 
+  year: 2022
+
+- name:  Alejandro Garcia
+  location: University of San Francisco
+  degree: B.S 
+  year: 2022
+
+
+- name: Allison Wong
+  location: University of San Francisco
+  degree: M.S 
+  year: 2021
+
+      
+- name:  Pragya Garg
+  location: University of San Francisco
+  degree: M.S 
+  year: 2021
+
+- name:  Lance Fernando
+  location: University of San Francisco
+  degree: M.S 
+  year: 2019
+
+
+- name:  Helen Chen
+  location: University of San Francisco
+  degree: M.S 
+  year: 2018
+  
+- name:  Jia Hui Feng
+  location: University of San Francisco
+  degree: B.S 
+  year: 2017
+
+- name:  Gauri Joshi
+  location: University of San Francisco
+  degree: M.S 
+  year: 2018
+
+- name:  Thanawut Ananpiriyakul
+  location: University of San Francisco
+  degree: M.S 
+  year: 2018
+
+- name:  Shiyi Tan
+  location: University of San Francisco
+  degree: M.S 
+  year: 2018
+
+
+- name:  Han Xi
+  location: University of San Francisco
+  degree: M.S 
+  year: 2017
+
+- name: Roderick Lisam
+  location: University of San Francisco
+  degree: M.S 
+  year: 2015
+
+- name: Sindhuja Sridharan
+  location: University of San Francisco
+  degree: M.S 
+  year: 2014
+        
+      
+    #     - name:  Fatima Zahra El Fallali, Master of Science in Computer Science (Directed Study)
+    #     - name:  Chao Lu, Master of Science in Computer Science (Directed Study)
+    #     - name:  Pirakorn Iamcharernying, Master of Science in Computer Science (Masters Project)
+    #     - name:  Colin Clayton, Bachelor of Science in Computer Science (Directed Study)
+    #     - name:  Gabrielle Corbett, Bachelor of Science in Mathematics (Research Assistant, FDF)
+    #     - name:  Diana Ly, Bachelor of Science in Computer Science (Directed Study)
+    #     - name:  William Chiang, Bachelor of Science in Computer Science (Directed Study)
+
+    # - name:  Brady Cannon, Master of Computer Science - November 2012 
+    # - name:  Peter Games, Master of Computer Science - May 2013 
+    # - name:  Joshua Anghel, Master of Computer Science - October 2013 
+    # - name:  Aaron Wells, Master of Computer Science (committee member) 
+    # - name:  Matthew Tanner, Master of Computer Science (committee member) 
+    # - name:  Andres Campos, Master of Computer Science (committee member) 
+    # - name:  Archana Nanjundarao, Master of Computer Science (committee member) 
+    # - name:  Sri Divya Deenadayalan, Master of Computer Science (committee member) - May 2012 
+    # - name:  Nazia Sarang, Master of Electrical and Computer Engineering (committee member) - Dec 2011 
+    # - name:  Steven Shofner, Bachelor of Computer Science - NSF LSAMP student 2012 
+    # - name:  Carla Barrero, Bachelor of Computer Science - NSF LSAMP student 2011 
+    # - name:  Jake Desarno, Bachelor of Computer Science - NSF STEP student 2012
+    # - name:  Autumn Warren, Bachelor of Computer Science - NSF STEP student 2011
+    # - name:  Grannsci Giraldo, Bachelor of Computer Science 
+    # - name:  Nilab Mohammad Mousa, Bachelor of Computer Science 
+    # - name:  Vanessa Gertman, Bachelor of Computer Science 
+    # - name:  Stephen Mathie, Bachelor of Computer Science 

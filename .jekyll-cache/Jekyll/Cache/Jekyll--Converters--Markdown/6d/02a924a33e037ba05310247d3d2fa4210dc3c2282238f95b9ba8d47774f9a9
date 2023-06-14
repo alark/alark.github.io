@@ -1,0 +1,139 @@
+I"�<h2 id="about">About</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-4">
+      <p><img src="http://localhost:4000/images/headshot.png" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-8 col-xs-12">
+      <h3>Alark Joshi</h3>
+      <h4><i>Associate Professor, University of san Francisco</i></h4>
+      <p><a href="mailto:apjoshi@usfca.edu" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> 
+   <a href="http://localhost:4000/cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> 
+   <a href="https://scholar.google.com/citations?user=iUeg1KgAAAAJ&amp;hl=en&amp;authuser=1" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> 
+   <a href="https://github.com/alark" target="_blank"><i class="fa fa-github-square fa-3x"></i></a></p>
+
+      <ul style="overflow: hidden">
+  
+  
+  
+  <li> (2007) Ph.D. Computer Science, University of Maryland Baltimore County (UMBC) </li>
+  <li> (2001) M.S. Computer Science, University of Minnesota </li>
+  <li> (1999) B.E. Computer Engineering, Pune Institute of Computer Technology, University of Pune, India </li>
+  
+  
+  
+  
+  </ul>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <h3 id="grants">Grants</h3>
+  <ul>
+
+ <li> Sami Rollins, Sophie Engle, Alark Joshi, Xornam Apedoe, Matthew Malensek, Eileen Fung, Gian Bruno, <a href="https://scholars.cs.usfca.edu/">Community Engaged Scholars In Computer Science</a>, National Science Foundation (NSF), 2019-2024, $650,000. </li>
+
+ <li> Alark Joshi, GirlTechPower - A workshop for middle-school and high-school girls in San Francisco, SanDisk Corporation, June 2016 - $24,000. </li>
+
+ <li> Alark Joshi and Dave Wolber, CS4HS - Building a sustained community of practice using Mobile CSP, Google Computer Science for High School Initiative, April 2016 - $34,500. </li>
+
+ <li> Alark Joshi, GirlTechPower - A workshop for high-school girls in San Francisco, AT&amp;T, May 2015 - $20,000. </li>
+
+ <li> Alark Joshi, GirlTechPower - A workshop for middle-school and high-school girls in San Francisco, SanDisk Corporation, June 2015 - $24,000. </li>
+
+ <li> Alark Joshi and Dave Wolber, CS4HS - Building a sustained community of practice using Mobile CSP, Google Computer Science for High School Initiative, April 2015 - $34,000. </li>
+
+ <li> Alark Joshi, Amit Jain, Louis Nadelson, Tim Anderson, Jyh-haw Yeh, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1339403">CS 10K - IDoCode. A Sustainable Model for Computer Science in Idaho High Schools</a>, NSF Computing Education for the 21st Century, (NSF) - $992,067 </li>
+
+ <li> Lisa Dawley, Chris Haskell, Alark Joshi, Andy Hung, Badges for Personalized Science Learning in 3D GameLab, HASTAC/MacArthur Foundation, May 2012 - $150,000. </li>
+
+ <li> Alark Joshi, Computational Thinking - An Introduction to Programming and Data Analysis, Google Computer Sci- ence for High School Initiative, March 2013 - $10,000. </li>
+
+ <li> Alark Joshi, Computational Thinking:An Introduction to Programming and Data Analysis, Google Computer Sci- ence for High School Initiative, April 2012 - $14,500. </li>
+
+ <li> Alark Joshi, Context-providing techniques for visualization of scientific simulations, Idaho National Labs Faculty Staff Exchange Initiative, April 2012 - $20,075. </li>
+
+ <li> Alark Joshi, Evaluating Team-Based Learning in a Sophomore Level Programming Class, Center for Teaching and Learning, Boise State University, March 2012 - $3,500. </li>
+
+ <li> Alark Joshi, Developing Novel Vision Techniques for Recognizing Sensor Pedestals in 3D photogrammetry, Elec- trical Geodesics Inc., June 2011 - $8033. </li>
+
+ <li> Alark Joshi, Instant Gratification - Interactive Learning Tools to Engage Students through Computer Science, Google Computer Science for High School Initiative, March 2011 - $15,000. </li>
+
+</ul>
+</div>
+
+<div class="jumbotron">
+  <h3 id="awards">Awards</h3>
+  <ul>
+
+ <li> Full&#8211;Time Faculty Service Award in the College of Arts and Sciences at the University of San Francisco (2023) </li>
+
+ <li> Sabbatical Research Award from the Provost's Office at the University of San Francisco (2020) </li>
+
+ <li> Distinguished Teaching Award at the University of San Francisco for (2015). </li>
+
+ <li> Best Panel Award at the IEEE Visualization 2010 conference for the panel “Perspectives on teaching data visualization”. Co&#8211;Panelists were Tamara Munzner, Gordon Kindlmann, Daniel Keefe, Jason Dykes (2009). </li>
+
+ <li> Best Panel Award at the IEEE Visualization 2009 conference for the panel “New faculty and postdoctoral fellows spill the beans”. Co&#8211;Panelists were Jeffrey Heer, Gordon Kindlmann, Miriah Meyer (2008). </li>
+
+ <li> Best Senator of the Year for the Graduate Student Association (2006). </li>
+
+ <li> Outstanding Graduate Teaching Assistant, Department of Computer Science, University of Minnesota (2001). </li>
+
+</ul>
+</div>
+
+<div class="jumbotron">
+  <h3 id="students-and-mentoring">Students and mentoring</h3>
+  <ul>
+
+ <li> Michelle Quach, University of California at Santa Cruz (Ph.D) (B.S, 2023) </li>
+
+ <li> Chandana Srinivas, University of San Francisco (B.S, 2024) </li>
+
+ <li> Colm Lang, University of San Francisco (B.S, 2024) </li>
+
+ <li> Bhumika Srinivas, University of San Francisco (MSDS) (B.S, 2023) </li>
+
+ <li> Ariana Jorgensen, University of San Francisco (M.S, 2023) </li>
+
+ <li> Rubin Johny, University of San Francisco (M.S, 2023) </li>
+
+ <li> Tony Jimenez, University of San Francisco (B.S, 2022) </li>
+
+ <li> Alejandro Garcia, University of San Francisco (B.S, 2022) </li>
+
+ <li> Allison Wong, University of San Francisco (M.S, 2021) </li>
+
+ <li> Pragya Garg, University of San Francisco (M.S, 2021) </li>
+
+ <li> Lance Fernando, University of San Francisco (M.S, 2019) </li>
+
+ <li> Helen Chen, University of San Francisco (M.S, 2018) </li>
+
+ <li> Jia Hui Feng, University of San Francisco (B.S, 2017) </li>
+
+ <li> Gauri Joshi, University of San Francisco (M.S, 2018) </li>
+
+ <li> Thanawut Ananpiriyakul, University of San Francisco (M.S, 2018) </li>
+
+ <li> Shiyi Tan, University of San Francisco (M.S, 2018) </li>
+
+ <li> Han Xi, University of San Francisco (M.S, 2017) </li>
+
+ <li> Roderick Lisam, University of San Francisco (M.S, 2015) </li>
+
+ <li> Sindhuja Sridharan, University of San Francisco (M.S, 2014) </li>
+
+</ul>
+</div>
+
+<div class="jumbotron">
+  <h4>Sponsors</h4>
+  <div style="display:block; text-align:center; margin-left:auto; margin-right:auto;">
+    <p><a href="https://www.nsf.gov/" target="_blank"><img src="http://localhost:4000/images/NSF.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.google.com" target="_blank"><img src="http://localhost:4000/images/Google.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.att.com" target="_blank"><img src="http://localhost:4000/images/ATT.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.sandisk.com" target="_blank"><img src="http://localhost:4000/images/SanDisk.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
+  </div>
+</div>
+:ET
