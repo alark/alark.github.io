@@ -1,17 +1,16 @@
-I"è
-<h2 id="team">Team</h2>
+I"N<h2 id="team">Team</h2>
 
-<p><strong>We are  looking for new team members</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+<p><strong>We are  looking for new team members</strong> <a href="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/vacancies">(see openings)</a> <strong>!</strong></p>
 
 <h2 id="pi">PI</h2>
 
 <div class="jumbotron">
   <div class="row">
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/headshot.png" width="100%" style="max-width:250px" /></p>
+      <p><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/headshot.png" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-9 col-xs-12">
-      <h4>Dr. Alark Joshi</h4>
+      <h4>Alark Joshi</h4>
       <p><i>Associate Professor, University of san Francisco</i><br /></p>
 
       <p><a href="mailto:apjoshi@usfca.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a>   <a href="https://scholar.google.com/citations?user=iUeg1KgAAAAJ&amp;hl=en&amp;authuser=1" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a>   <a href="cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a>   <a href="https://github.com/alark" target="_blank"><i class="fa fa-github-square fa-2x"></i></a></p>
@@ -30,7 +29,7 @@
   <div class="row">
 
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+      <p><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/rock.jpg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-4 col-xs-12">
       <h4>Test</h4>
@@ -53,7 +52,7 @@
   <div class="row">
 
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/" width="100%" style="max-width:250px" /></p>
+      <p><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-4 col-xs-12">
       <h4>Example Alumni Name</h4>
@@ -63,7 +62,7 @@
     </div>
 
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/" width="100%" style="max-width:250px" /></p>
+      <p><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-4 col-xs-12">
       <h4>Zini Zhu (Google)</h4>

@@ -1,15 +1,15 @@
-I"ç<h2 id="about">About</h2>
+I"Í<h2 id="about">About</h2>
 
 <div class="jumbotron">
   <div class="row">
     <div class="col-sm-4">
-      <p><img src="http://localhost:4000/images/headshot.png" width="100%" style="max-width:250px" /></p>
+      <p><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/headshot.png" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-8 col-xs-12">
-      <h3>Dr. Alark Joshi</h3>
+      <h3>Alark Joshi</h3>
       <h4><i>Associate Professor, University of san Francisco</i></h4>
       <p><a href="mailto:apjoshi@usfca.edu" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> 
-   <a href="http://localhost:4000/cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> 
+   <a href="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/cv/cv.pdf" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> 
    <a href="https://scholar.google.com/citations?user=iUeg1KgAAAAJ&amp;hl=en&amp;authuser=1" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> 
    <a href="https://github.com/alark" target="_blank"><i class="fa fa-github-square fa-3x"></i></a></p>
 
@@ -133,7 +133,7 @@
 <div class="jumbotron">
   <h4>Sponsors</h4>
   <div style="display:block; text-align:center; margin-left:auto; margin-right:auto;">
-    <p><a href="https://www.nsf.gov/" target="_blank"><img src="http://localhost:4000/images/NSF.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.google.com" target="_blank"><img src="http://localhost:4000/images/Google.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.att.com" target="_blank"><img src="http://localhost:4000/images/ATT.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.sandisk.com" target="_blank"><img src="http://localhost:4000/images/SanDisk.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
+    <p><a href="https://www.nsf.gov/" target="_blank"><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/NSF.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.google.com" target="_blank"><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/Google.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.att.com" target="_blank"><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/ATT.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.sandisk.com" target="_blank"><img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/SanDisk.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
   </div>
 </div>
 :ET

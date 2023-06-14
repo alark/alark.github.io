@@ -2,8 +2,8 @@
 title: Alark Joshi 
 email: apjoshi@usfca.edu 
 description: Academic webpage of Alark Joshi 
-baseurl: ""
-url: ""
+baseurl: "https://www.cs.usfca.edu/~apjoshi/_site"
+url: "https://www.cs.usfca.edu/~apjoshi/_site"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX

@@ -1,4 +1,4 @@
-I"	<h3 id="welcome">Welcome!</h3>
+I"+	<h3 id="welcome">Welcome!</h3>
 
 <p>My research is in the field of Data Visualization with an emphasis on mobile data visualization and visualization literacy. In the field of Mobile Data Visualization, we have developed novel techniques to provide context to viewers as they explore data on small screens. For the visualization literacy field, we have explored the use of Bloom’s taxonomy to introduce individuals to unfamiliar visualization techniques such as Treemaps and Parallel Coordinates Plots.</p>
 
@@ -7,7 +7,7 @@
 <div class="container">
   <div class="row">
     <center>
-<img src="http://localhost:4000/images/banner.jpg" width="100%" /><br />
+<img src="http://localhost:4000https://www.cs.usfca.edu/~apjoshi/_site/images/banner.jpg" width="100%" /><br />
 Timesteps of Hurricane Katrina annotated with Speedlines. <br />
 Joshi A. et al., Case study on visualizing hurricanes using illustration-inspired techniques. <i>IEEE TVCG</i> (2008)
 </center>
