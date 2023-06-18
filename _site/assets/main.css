@@ -22,7 +22,7 @@ abbr[title], abbr[data-original-title] { text-decoration: underline; text-decora
 
 address { margin-bottom: 1rem; font-style: normal; line-height: inherit; }
 
-ol, ul, dl { margin-top: 0; margin-bottom: 1rem; }
+ol, ul, dl { margin-top: 0; margin-bottom: 1rem; padding-left:15px; }
 
 ol ol, ul ul, ol ul, ul ol { margin-bottom: 0; }
 
