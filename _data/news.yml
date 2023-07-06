@@ -1,11 +1,26 @@
 - date: May 2023 
-  headline: "Our paper based on Treemaps Literacy was presented at the Eurographics Education 2023 conference"
+  headline: "Our paper based on a `Constructivism-based approach for Treemaps Literacy' was accepted in the <i>Computer Graphics Forum</i> Journal."
 
 - date: March 2023
-  headline: "Our poster on Acknowledging Inequities in Tech through a Community-Engaged Learning course was presented at SIGCSE 2023"
+  headline: "Our poster on 'Acknowledging Inequities in Tech through a Community-Engaged Learning course' was presented at <i>SIGCSE 2023</i>"
+
+- date: September 2022
+  headline: "Our paper on 'Lessons Learned From Quantitatively Exploring Visualization Rubric Utilization for Peer Feedback' was accepted for publication in the IEEE CG&A journal with an <i>invited talk to IEEE VIS 2023</i>."
+
+- date: July 2022
+  headline: "Our survey paper on 'Interactive Visualization Literacy: The State-of-the-art' was published in the <b>Information Visualization Journal.</b>"
 
 - date: June 2022 
-  headline: "Our lab published 4 papers on Visualization Literacy and Pedagogy at IEEE CG&A (2), Eurographics Education, and theInformation Visualization Journal."
+  headline: "Our lab published <b>4 papers on Visualization Literacy and Pedagogy</b> at IEEE CG&A (2), Eurographics Education, and the Information Visualization Journal."
+
+- date: March 2022 
+  headline: "Our paper on `Evaluating Bloom’s Taxonomy-based Learning Modules for Parallel Coordinates Literacy' was accepted for publication in the Computer Graphics Journal."
+
+- date: January 2022 
+  headline: "Our paper on `Nirmaan: Dataset generation for multiclass scatterplot studies' was accepted for publication in the Electronic Imaging Journal."
 
 - date: December 2021
-  headline: "Our book on Mobile Data Visualization was published by CRC Press with two chapters co-authored by Alark Joshi"
+  headline: "Co-authored two chapters in the <b>Mobile Data Visualization book</b> that was published by CRC Press"
+
+- date: October 2021
+  headline: "Organized a panel at IEEE VIS 2021 on `Visualization Literacy for General Audiences-Can We Make A Difference?' with Katy Börner, Robert S Laramee, Lane Harrison, Elif E Firat, and Bum Chul Kwon."
