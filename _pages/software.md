@@ -44,6 +44,8 @@ iframe {
 <a href="https://github.com/bioimagesuiteweb/bisweb" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/2011_JNeuroInformatics_bis.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
+<!-- <img src="https://www.cs.usfca.edu/~apjoshi/alark-joshi-2014.png"> -->
+
 <b>Authors:</b>
 <i>Xenios Papademetris, Marcel Jackowski, Alark Joshi, Dustin Scheinost, Cheryl Lacadie, Marcello DiStasio, and, Lawrence Staib</i>
 
@@ -62,6 +64,8 @@ iframe {
 
 <b>Authors:</b>
 <i>Test</i>
+
+Agami, Nirmaan, Constructivism Treemaps, Mobile Data vis? 
 
 </div>
 </div>
