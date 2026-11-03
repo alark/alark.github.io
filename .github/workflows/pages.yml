@@ -16,6 +16,9 @@ concurrency:
 
 jobs:
   build:
+    # Only the alark.github.io repo has Pages enabled; skip in the
+    # github-pages-website mirror so it doesn't fail on every push.
+    if: github.repository == 'alark/alark.github.io'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
