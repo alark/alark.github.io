@@ -42,6 +42,13 @@ border-radius:20px;
 <h4><b>University of San Francisco</b></h4>
 
 <ul>
+<li>Ash Li, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
+<li>Emily Johnson, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
+<li>Zaylen Moore, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
+<li>Gideon Chung, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
+<li>Ursula Ontiveros, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
+<li>Aya Cheikh, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
+<li>Joshua Lim, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
 <li>Chandana Srinivas, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
 <li>Caterina Ponti, Bachelor of Science in Data Science (Research Assistant, FDF)</li>
 <li>Bhavi Kenia, Bachelor of Science in Computer Science (Research Assistant, FDF)</li>
