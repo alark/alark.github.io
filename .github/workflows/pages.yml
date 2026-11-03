@@ -16,8 +16,8 @@ concurrency:
 
 jobs:
   build:
-    # Only the alark.github.io repo has Pages enabled; skip in the
-    # github-pages-website mirror so it doesn't fail on every push.
+    # Only deploy from the repo that has Pages enabled, so copies or
+    # forks of this repo don't run (and fail) the deploy.
     if: github.repository == 'alark/alark.github.io'
     runs-on: ubuntu-latest
     steps:
